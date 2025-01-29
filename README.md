@@ -12,7 +12,7 @@ By using Cyclone, you are agreening to the following rules:
 - No spamming. For us, spamming is doing lots of commands without really using the bot.
 - No advertising.
 - No hacking. We don't allow any hacking.
-- If you find any bug, please contact me, the bot developer and owner, OZUMA_xD or join the [Support Server](https://discord.gg/cjontop).
+- If you find any bug, please contact me, the bot developer and owner, ihate.king or join the [Support Server](https://discord.gg/cjontop).
 
 # Contact Us
 If you have any questions or concerns, you can contact us in [Support Server](https://discord.gg/cjontop) or contact me as bot developer and owner King.
